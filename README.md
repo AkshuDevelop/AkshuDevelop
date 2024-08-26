@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AkshuDevelop
 - 👀 I’m interested in WebDevlopement
-- 🌱 I’m currently learning Frontend
-- 💞️ I’m looking to collaborate on Fullstack Projects
+- 🌱 I’m currently learning Fullstack
+- 💞️ I’m looking to collaborate on Frontend Projects
 - 📫 How to reach me akshatkumar.tech@gmail.com
 
 
